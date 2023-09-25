@@ -13,9 +13,9 @@ Um sistema que gerencie, organize e realize reuniões dentro de uma empresa, por
 Gestores de Empresas, Coordenadores de Escolas e Empresas no geral
 
 # EQUIPE
-<li>Francisco Hugo<li>
-<li>Natan Sales<li>
-<li>Lucas Lima Cavalcante<li>
-<li>Gilson Filho<li>
-<li>Thályson Ferreira Chagas<li>
+<li>Francisco Hugo
+<li>Natan Sales
+<li>Lucas Lima Cavalcante
+<li>Gilson Filho
+<li>Thályson Ferreira Chagas
 
