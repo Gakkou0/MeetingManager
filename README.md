@@ -11,3 +11,11 @@ Um sistema que gerencie, organize e realize reuniões dentro de uma empresa, por
 
 ## Público alvo: 
 Gestores de Empresas, Coordenadores de Escolas e Empresas no geral
+
+# EQUIPE
+Francisco Hugo
+Natan Sales
+Lucas Lima Cavalcante
+Gilson Filho
+Thályson Ferreira Chagas
+
